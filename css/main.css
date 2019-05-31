@@ -179,3 +179,11 @@ footer span {
 	color: #77a466;
 	font-size: .875em;
 }
+
+@media all and (min-width: 768px){
+	/*table styles here*/
+}
+
+@media all and (min-width: 1200px){
+	/*desktop styles here*/
+}
